@@ -78,5 +78,18 @@ eg:
 python SNN_MLP_3.py
 ```
 3. View the results in /SHD/MLP/Result/.
+   
 #### 4. Extra
 1. /module/TA.py defines the Temporal Attention layer and /module/LIF.py,LIF_Module.py defines LIF module.
+
+## Citation
+
+```
+@inproceedings{yao2021temporal,
+  title={Temporal-wise attention spiking neural networks for event streams classification},
+  author={Yao, Man and Gao, Huanhuan and Zhao, Guangshe and Wang, Dingheng and Lin, Yihan and Yang, Zhaoxu and Li, Guoqi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={10221--10230},
+  year={2021}
+}
+```
